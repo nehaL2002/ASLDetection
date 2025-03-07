@@ -17,6 +17,7 @@ Installation
 
 Clone the repository:
 
+```bash
 git clone https://github.com/your-repo/sign-language-detection.git
 cd sign-language-detection
 
