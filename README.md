@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/sign-language-detection.git
+git clone https://github.com/nehaL2002/ASLDetection.git
 cd sign-language-detection
 ```
 Install dependencies:
