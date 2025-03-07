@@ -20,17 +20,17 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-repo/sign-language-detection.git
 cd sign-language-detection
-
+```
 Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 Running the App
 
 Run the Gradio app using:
-
+```
 python app.py
-
+```
 This will launch a local Gradio interface in your web browser.
 
 Usage
