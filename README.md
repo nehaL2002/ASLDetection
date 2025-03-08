@@ -5,11 +5,11 @@ This Gradio app allows users to upload images or videos to detect and recognize 
 
 Features
 
-Upload an image or video containing a sign language gesture.
+Upload an image containing a sign language gesture.
 
 The app processes the input and provides the corresponding alphabetic output.
 
-Uses machine learning for real-time sign language detection.
+Uses YOLO for real-time sign language detection.
 
 Faster response time when running on GPU.
 
@@ -37,7 +37,7 @@ Usage
 
 Open the Gradio interface in your browser.
 
-Upload an image or video containing a sign language gesture.
+Upload an image or containing a sign language gesture.
 
 Click the "Submit" button.
 
