@@ -1,2 +1,6 @@
 ultralytics 
 ray==2.32.0
+matplotlib
+torch
+gradio
+opencv-python
